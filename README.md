@@ -1,0 +1,1 @@
+# NER-Landslide-Risk-Monitoring-System
